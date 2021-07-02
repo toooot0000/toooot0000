@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jerry Ye
-- 👀 I’m interested in EVERYTHING!
+- 👀 I’m interested in EVERYTHING! (Not rlly, I am interested in game development and game design.)
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: runan.ye@outlook.com runanye@usc.edu
 
