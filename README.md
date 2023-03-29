@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Jerry Ye
-- 👀 I’m interested in EVERYTHING! (Not rlly, I am interested in web development, game development and game design)
-- 🖥️ Looking for a SDE job right now
-- 🌱 I’m currently learning C++
-- 📫 How to reach me: runan.jerry.ye@gmail.com
+Hello, Jerry Ye here!
+Game Dev, Web Dev, Rendering
 
 <!---
 toooot0000/toooot0000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
